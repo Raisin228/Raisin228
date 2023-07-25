@@ -1,22 +1,22 @@
-### 👋Hello, my name is Bogdan!
+### Hey, what's up👋 My name is Bogdan!
 
 ---
 
-##### 🧑‍💻 About me:
-
-Я начинающий Python backend developer. Мой путь в it начался в 7 классе школы когда я впервые записался на кружок
-программирования на языке Pascal. Приверно через год я ушёл. После кружка был промежуток в пару месяцев где я начал 
-пробовать себя во многих направлениях а именно я пробовал изучать C/C++ также я на некоторое время увлёкся платами и
-микроконтроллерами (Arduino) пробовал свои силы в создании мобильных приложений Kotlin но больше всего меня зацепила веб
-разработка! С июня 2022 года по сегодняшний день я активно изучаю язык программирования Python🐍 на курсах Stepik.
+#### 👨‍💻About me:
+I am a beginner Python backend developer. My journey in IT started in 7th grade when I first joined a programming club 
+for Pascal. About a year later, I left the club. After that, there was a gap of a couple of months when I tried myself 
+in various directions, namely, I attempted to learn C/C++. I also got interested in boards and microcontrollers 
+(Arduino) for a while, and tried my hand at creating mobile applications using Kotlin. However, web development 
+fascinated me the most! From June 2022 until today, I have been actively learning the Python programming language 🐍 
+through Stepik courses.
 ![](github-snake.svg)
 
-* 🎖️Участвовал в хакатоне организованном стартап сообществом [Structura](https://vk.com/yours_startup)
-* Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-atroshenkobogdan-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Bogdanatrosenko) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:bogdanatrosenko@gmail.com)
+* 🎖️Participated in a hackathon organized by the startup community [Structura](https://vk.com/yours_startup)
+* How to contact me: [![Telegram Badge](https://img.shields.io/badge/-atroshenkobogdan-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Bogdanatrosenko) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:bogdanatrosenko@gmail.com)
 
 ---
 
-##### 🤝Социальные сети:
+#### 🤝Social network:
 <div>
     <a href="https://vk.com/bog_at_04" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
@@ -25,7 +25,7 @@
 
 ---
 
-##### 💾Технологии:
+#### 💾Technologists:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp
@@ -33,11 +33,20 @@
 </div>
 
 ---
-##### ⚒️Инструменты:
 
+#### ⚒Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="arduino" alt="arduino" width="40" height="40"/>&nbsp
+  <img src="https://github.com/Raisin228/Raisin228/blob/main/orange.png" title="orange pi" alt="orange pi" width="40" height="40"/>&nbsp
 </div>
+
+---
+
+#### 📑Completed courses:
+| Courses                                  | Date              | Link to certificate             |
+|------------------------------------------|-------------------|---------------------------------|
+| "Поколение Python": курс для начинающих  | 04/2022 - 06/2022 | https://stepik.org/cert/1559776 |
+| "Поколение Python": курс для продвинутых | 01/2023 - 04/2023 | https://stepik.org/cert/2048520 |
 
 
 
