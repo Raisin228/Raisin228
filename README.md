@@ -37,7 +37,7 @@ through Stepik courses.
 #### ⚒Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="arduino" alt="arduino" width="40" height="40"/>&nbsp
-  <img src="https://github.com/Raisin228/Raisin228/blob/main/orange.png" title="orange pi" alt="orange pi" width="40" height="40"/>&nbsp
+  <img src="https://github.com/Raisin228/Raisin228/blob/main/orange.png" title="orange pi" alt="orange pi" width="40" height="80"/>&nbsp
 </div>
 
 ---
