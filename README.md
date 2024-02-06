@@ -16,38 +16,8 @@ through Stepik courses.
 
 ---
 
-#### 🤝Social network:
-<div>
-    <a href="https://vk.com/bog_at_04" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
-    </a>
-</div>
-
----
-
-#### 💾Technologists:
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/>&nbsp
-</div>
-
----
-
-#### ⚒Tools:
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="arduino" alt="arduino" width="40" height="40"/>&nbsp
-  <img src="https://github.com/Raisin228/Raisin228/blob/main/orange.png" title="orange pi" alt="orange pi" width="100" height="40"/>&nbsp
-</div>
-
----
-
 #### 📑Completed courses:
 | Courses                                  | Date              | Link to certificate             |
 |------------------------------------------|-------------------|---------------------------------|
 | "Поколение Python": курс для начинающих  | 04/2022 - 06/2022 | https://stepik.org/cert/1559776 |
 | "Поколение Python": курс для продвинутых | 01/2023 - 04/2023 | https://stepik.org/cert/2048520 |
-
-
-
-
