@@ -9,7 +9,6 @@ in various directions, namely, I attempted to learn C/C++. I also got interested
 (Arduino) for a while, and tried my hand at creating mobile applications using Kotlin. However, web development 
 fascinated me the most! From June 2022 until today, I have been actively learning the Python programming language 🐍 
 through Stepik courses.
-![](github-snake.svg)
 
 * 🎖️Participated in a hackathon organized by the startup community [Structura](https://vk.com/yours_startup)
 * How to contact me: [![Telegram Badge](https://img.shields.io/badge/-atroshenkobogdan-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Bogdanatrosenko) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:bogdanatrosenko@gmail.com)
