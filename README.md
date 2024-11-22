@@ -20,3 +20,16 @@ through Stepik courses.
 |------------------------------------------|-------------------|---------------------------------|
 | "Поколение Python": курс для начинающих  | 04/2022 - 06/2022 | https://stepik.org/cert/1559776 |
 | "Поколение Python": курс для продвинутых | 01/2023 - 04/2023 | https://stepik.org/cert/2048520 |
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Raisin228&theme=dark&border_radius=3.5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Raisin228&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raisin228&layout=compact&card_width=700)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Raisin228&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/bogdanatrosenko?theme=unicorn)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=There%20are%20no%20unrealistic%20goals%20—%20there%20are%20only%20unrealistic%20deadlines.&author=My%20Father)](https://github.com/piyushsuthar/github-readme-quotes)
