@@ -15,16 +15,32 @@
 
 ---
 
-#### 📑Completed courses:
-
-| Courses                                  | Date              | Link to certificate             |
-|------------------------------------------|-------------------|---------------------------------|
-| "Поколение Python": курс для начинающих  | 04/2022 - 06/2022 | https://stepik.org/cert/1559776 |
-| "Поколение Python": курс для продвинутых | 01/2023 - 04/2023 | https://stepik.org/cert/2048520 |
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Raisin228&theme=tokyonight&border_radius=5.5&locale=ru&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=1000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raisin228&layout=compact&card_width=1000)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&width=500&quote=Что%20если%20все%20эти%20испытания%20ведут%20к%20чему-то%20прекрасному?&author=Мудрец🌲)](https://github.com/piyushsuthar/github-readme-quotes) 
+### 🏆 Хакатоны и соревнования
 
+---
+
+| Year |        Event         |                    Project                    |   Result   |                                                                   Awards                                                                   |
+|:----:|:--------------------:|:---------------------------------------------:|:----------:|:------------------------------------------------------------------------------------------------------------------------------------------:|
+| 2024 |       1/4 ICPC       |     ICPC Central Russia Regional Contest      | 12th place | [Диплом_1](https://github.com/Raisin228/-/blob/main/ICPC-2024.pdf), [Диплом_2](https://github.com/Raisin228/-/blob/main/icpc-3-degree.pdf) |
+| 2023 | ТехноХакатон "Цифра" | Сервис и бот для управления бизнес-процессами | 2nd place  |                                  [Диплом](https://github.com/Raisin228/-/blob/main/certificate_digit.pdf)                                  |
+| 2022 |     Турнир САФУ      |   Олимпиада по спортивному программированию   | 6th place  |                                                                     -                                                                      |
+| 2022 |       1/4 ICPC       |     ICPC Central Russia Regional Contest      | 29th place |                            [Диплом](https://github.com/Raisin228/-/blob/main/ICPC%20CERTIFICATE-2022-2023.pdf)                             |
+
+#### 📑Пройденные курсы:
+
+---
+
+| Year |                  Course                  |              Link to certificate               |
+|:----:|:----------------------------------------:|:----------------------------------------------:|
+| 2023 | "Поколение Python": курс для продвинутых | [Certificate](https://stepik.org/cert/2048520) |
+| 2022 | "Поколение Python": курс для начинающих  | [Certificate](https://stepik.org/cert/1559776) |
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&width=500&quote=Что%20если%20все%20эти%20испытания%20ведут%20к%20чему-то%20прекрасному?&author=Мудрец🌲)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
