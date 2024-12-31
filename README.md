@@ -35,10 +35,11 @@
 
 ---
 
-| Year |                  Course                  |              Link to certificate               |
-|:----:|:----------------------------------------:|:----------------------------------------------:|
-| 2023 | "Поколение Python": курс для продвинутых | [Certificate](https://stepik.org/cert/2048520) |
-| 2022 | "Поколение Python": курс для начинающих  | [Certificate](https://stepik.org/cert/1559776) |
+| Year |                  Course                  |                  Link to certificate                   |
+|:----:|:----------------------------------------:|:------------------------------------------------------:|
+| 2024 |      Интерактивный тренажер по SQL       | [Certificate](https://stepik.org/cert/2713665?lang=en) |
+| 2023 | "Поколение Python": курс для продвинутых |     [Certificate](https://stepik.org/cert/2048520)     |
+| 2022 | "Поколение Python": курс для начинающих  |     [Certificate](https://stepik.org/cert/1559776)     |
 
 <div align="center">
 
